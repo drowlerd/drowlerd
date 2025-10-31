@@ -95,6 +95,8 @@
 
 ###
 
+<h3 align="center">Recent projects</h3>
+
 ###
 
 <div align="center">
