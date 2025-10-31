@@ -99,11 +99,11 @@
 
   <tr>
     <td width="5%" align="center">
-      <h1>📈</h1>
+      <h1><img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" height="40"/></h1>
     </td>
     <td width="95%">
       <h3>Automated Data Pipelines & KPIs</h3>
-      <p><b>Built automated data pipelines</b> and dashboards using <b>Python & Quarto</b> to deliver actionable <b>KPIs</b> to design and management teams.</p>
+      <p><b>Built automated data pipelines</b> and dashboards using <b>Python, Quarto and Plotly</b> to deliver actionable <b>KPIs</b> to enhance data-driven decission making. </p>
     </td>
   </tr>
   <tr><td colspan="2"><hr></td></tr>
@@ -125,7 +125,7 @@
     </td>
     <td width="95%">
       <h3>Unity Architecture Design</h3>
-      <p><b>Designed Unity C# architecture </b> applying <b>SOLID principles</b> and <b>design patterns</b>, achieving scalable and maintainable systems.</p>
+      <p><b>Designed Unity C# architecture </b> applying <b>SOLID principles</b>, <b>design patterns</b>, <b>Dependency Injection</b> and <b>Scriptable Object Architecture Pattern</b>, achieving scalable and maintainable systems.</p>
     </td>
   </tr>
   <tr><td colspan="2"><hr></td></tr>
