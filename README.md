@@ -27,7 +27,7 @@
 
 ###
 
-<h2 align="left">Game development</h2>
+<h2 align="left">Software Development</h2>
 
 ###
 
@@ -63,6 +63,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://quarto-dev.github.io/quarto-r/logo.png" height="40" alt="pandas logo"  />
 </div>
 
 ###
