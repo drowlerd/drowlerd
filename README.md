@@ -94,3 +94,23 @@
 </ul>
 
 ###
+
+###
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/company/funtechrocket/" target="_blank">
+    <img align="left" height="200" src="https://media.licdn.com/dms/image/v2/C4D0BAQHKOgSVkbVaOw/company-logo_200_200/company-logo_200_200/0/1668541534783/funtechrocket_logo?e=1763596800&v=beta&t=-Apt9amnPlMBi9j-KEAqG3YxwM05u2Sv3vpzniNrgas" alt="FunTech Rocket Logo" />
+  </a>
+
+  <a href="https://vimeo.com/bblliissss" target="_blank">
+    <img height="200" src="https://media.licdn.com/dms/image/v2/C4D0BAQGR5GaJAfxtQg/company-logo_200_200/company-logo_200_200/0/1643133813599/bliss_pictures_logo?e=1763596800&v=beta&t=0kHQ2TOIGwXWItKvNwQ2QFFfKkDy9wosylpsKLstMiI" alt="Bliss Pictures Logo" />
+  </a>
+  
+  <a href="https://store.steampowered.com/app/2388440/Battlecore_Robots/" target="_blank">
+    <img align="right" height="200" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2388440/capsule_616x353.jpg?t=1724430335" alt="Battlecore Robots Steam" />
+  </a>
+
+</div>
+
+###
