@@ -38,9 +38,9 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://quarto.org/quarto-dark-bg.jpeg" height="40" alt="pandas logo"  />
+  <img src="https://quarto.org/quarto-dark-bg.jpeg" height="40" alt="quarto logo"  />
   <img width="12" />
-  <img src="https://plotly-marketing-website-2.cdn.prismic.io/plotly-marketing-website-2/Z7eNlZ7c43Q3gCJw_Plotly-Logo-White.svg" height="40" alt="pandas logo"  />
+  <img src="https://plotly-marketing-website-2.cdn.prismic.io/plotly-marketing-website-2/Z7eNlZ7c43Q3gCJw_Plotly-Logo-White.svg" height="40" alt="plotly logo"  />
 </div>
 
 ###
